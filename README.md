@@ -3,13 +3,16 @@
 ## 初めに
     これはDjangoの公式サイトのチュートリアルに添った投票サイトです。
 
-*/polls*
-ここで、投票する話題を決めます。
-後は指示にしたがって投票をします。
-
+*<p>/polls</p>*
+<p>ここで、投票する話題を決めます。</p>
+<p>後は指示にしたがって投票をします。</p>  
 
 ## Start Server
-### python manage.py runserver
+```python
+python manage.py runserver
+```
 
 ## Super User
-### python manage.py createsuperuser
+```python
+python manage.py createsuperuser
+```
