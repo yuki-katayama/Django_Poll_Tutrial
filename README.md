@@ -38,5 +38,3 @@ python manage.py runserver
 ```python
 python manage.py createsuperuser
 ```
-
-Markdown: ![Qiita](https://i.gyazo.com/28dce839839769d909caf41ccb48c460.png "Qiita")
