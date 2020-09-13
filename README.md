@@ -6,6 +6,7 @@
 これはDjangoの公式サイトのチュートリアルに添った投票サイトです。
 
 *<p>/polls</p>*
+
 <p>ここで、投票する話題を決めます。</p>
 <p>後は指示にしたがって投票をします。</p>  
 
@@ -38,3 +39,8 @@ python manage.py runserver
 ```python
 python manage.py createsuperuser
 ```
+
+### Picture
+Page to select a topic to vote on: ![pic-1](https://i.gyazo.com/87fd727efd2539f30decc7271551c4ed.png)
+
+Voting page: ![pic-2](https://i.gyazo.com/a59fa9ec3a29e70cff1df8c731ec967e.png)
